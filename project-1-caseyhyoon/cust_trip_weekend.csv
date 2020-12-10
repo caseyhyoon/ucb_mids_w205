@@ -1,0 +1,101 @@
+count,avg_min,start_station_name,start_hour_str
+2995,40.42638842515308,Embarcadero at Sansome,Early Afternoon
+2808,54.157425213675246,Harry Bridges Plaza (Ferry Building),Mid Day
+2510,45.27500000000005,Harry Bridges Plaza (Ferry Building),Early Afternoon
+2196,44.55025804493012,Embarcadero at Sansome,Mid Day
+1875,26.24330666666668,Embarcadero at Sansome,Afternoon
+1368,34.13249269005849,2nd at Townsend,Early Afternoon
+1208,30.102248896247215,Embarcadero at Bryant,Mid Day
+1201,35.761865112406404,Harry Bridges Plaza (Ferry Building),Afternoon
+1200,39.51140277777776,Market at 4th,Early Afternoon
+1191,42.802644836272094,San Francisco Caltrain (Townsend at 4th),Mid Day
+1183,27.02881093265712,2nd at Townsend,Mid Day
+1118,56.16580202742999,Market at 4th,Mid Day
+1116,33.48815710872163,Embarcadero at Bryant,Early Afternoon
+1068,59.45525905118602,Powell Street BART,Mid Day
+1039,45.98057427013152,Harry Bridges Plaza (Ferry Building),Mid Morning
+1022,36.06870515329419,Steuart at Market,Early Afternoon
+1009,39.20964651470096,Grant Avenue at Columbus Avenue,Mid Day
+987,37.09648767308341,Powell Street BART,Early Afternoon
+973,44.222285029119575,Market at 10th,Mid Day
+958,31.355758524704246,Grant Avenue at Columbus Avenue,Early Afternoon
+901,22.908712541620392,Townsend at 7th,Mid Day
+887,50.418376550169164,Steuart at Market,Mid Day
+885,25.999020715630866,Market at 4th,Afternoon
+881,46.4703934922437,Embarcadero at Vallejo,Early Afternoon
+858,28.951340326340308,San Francisco Caltrain (Townsend at 4th),Early Afternoon
+841,58.77824019024977,Powell at Post (Union Square),Mid Day
+805,44.14157349896483,Civic Center BART (7th at Market),Mid Day
+798,45.21015037593987,Market at Sansome,Mid Day
+780,23.866880341880318,San Francisco Caltrain 2 (330 Townsend),Mid Day
+759,37.18280632411066,Market at 10th,Early Afternoon
+754,39.79182139699378,Market at Sansome,Early Afternoon
+728,24.66597985347986,Embarcadero at Bryant,Mid Morning
+727,73.40334708849146,Embarcadero at Vallejo,Mid Day
+715,15.413869463869478,Townsend at 7th,Early Afternoon
+713,25.239410939691435,Grant Avenue at Columbus Avenue,Afternoon
+709,53.5409967089798,Powell at Post (Union Square),Early Afternoon
+697,19.887374461979896,Powell Street BART,Afternoon
+679,30.6701521845852,Embarcadero at Sansome,Mid Morning
+675,18.394024691358013,2nd at Townsend,Afternoon
+671,32.81557377049179,Civic Center BART (7th at Market),Early Afternoon
+663,25.674409250879844,Embarcadero at Folsom,Mid Day
+639,36.28518518518517,South Van Ness at Market,Mid Day
+638,24.592032392894463,Embarcadero at Bryant,Afternoon
+621,25.393746645195908,San Francisco Caltrain 2 (330 Townsend),Early Afternoon
+616,24.25654761904762,South Van Ness at Market,Early Afternoon
+614,26.553800217155274,Yerba Buena Center of the Arts (3rd @ Howard),Early Afternoon
+612,37.49847494553375,5th at Howard,Mid Day
+610,18.787868852459006,San Francisco Caltrain (Townsend at 4th),Afternoon
+602,22.44761904761905,Embarcadero at Sansome,Evening
+573,25.025334496800454,2nd at South Park,Mid Day
+572,21.865209790209782,Spear at Folsom,Mid Day
+570,23.561988304093582,2nd at South Park,Early Afternoon
+559,27.786135957066193,San Francisco Caltrain (Townsend at 4th),Mid Morning
+543,33.403192142418646,5th at Howard,Early Afternoon
+540,41.29033950617288,Yerba Buena Center of the Arts (3rd @ Howard),Mid Day
+534,56.46766541822723,Powell at Post (Union Square),Mid Morning
+530,52.35069182389936,Market at 4th,Mid Morning
+518,72.16106821106824,Beale at Market,Mid Day
+513,15.52439896036388,2nd at Townsend,Mid Morning
+507,34.99404996712693,Davis at Jackson,Early Afternoon
+499,35.28854375417504,Embarcadero at Folsom,Early Afternoon
+499,31.75778223112895,Grant Avenue at Columbus Avenue,Mid Morning
+492,32.0097899728997,Davis at Jackson,Mid Day
+491,30.276510522742687,Embarcadero at Vallejo,Afternoon
+489,16.315541922290386,Market at Sansome,Afternoon
+483,11.870358868184965,San Francisco Caltrain 2 (330 Townsend),Afternoon
+476,22.823494397759102,Market at 10th,Afternoon
+474,27.163853727144865,Steuart at Market,Afternoon
+471,38.530077848549176,Washington at Kearny,Early Afternoon
+465,18.662043010752694,Embarcadero at Bryant,Morning
+463,38.109251259899196,Beale at Market,Early Afternoon
+462,13.578282828282818,San Francisco Caltrain 2 (330 Townsend),Mid Morning
+460,17.137681159420282,Yerba Buena Center of the Arts (3rd @ Howard),Afternoon
+459,28.922766884531597,2nd at Folsom,Mid Day
+457,56.65948212983223,Powell Street BART,Mid Morning
+451,29.792756836659276,Market at 4th,Evening
+448,46.68519345238095,Market at 10th,Mid Morning
+440,57.683712121212125,Mechanics Plaza (Market at Battery),Mid Day
+436,27.00156727828747,Spear at Folsom,Early Afternoon
+434,21.93037634408602,2nd at Folsom,Early Afternoon
+428,13.625038940809967,Townsend at 7th,Afternoon
+408,63.11303104575164,San Francisco City Hall,Mid Day
+408,24.99142156862744,Powell at Post (Union Square),Afternoon
+403,55.73631100082706,Clay at Battery,Early Afternoon
+402,30.59398839137647,Clay at Battery,Mid Day
+402,25.018573797678265,Temporary Transbay Terminal (Howard at Beale),Mid Day
+400,31.990249999999985,Harry Bridges Plaza (Ferry Building),Morning
+398,50.401507537688445,Civic Center BART (7th at Market),Mid Morning
+396,17.76902356902356,Embarcadero at Folsom,Afternoon
+383,44.30931244560487,Mechanics Plaza (Market at Battery),Early Afternoon
+377,18.809902740937222,Davis at Jackson,Afternoon
+375,47.35928888888888,Civic Center BART (7th at Market),Afternoon
+372,37.65927419354836,Howard at 2nd,Mid Day
+372,20.843682795698918,Harry Bridges Plaza (Ferry Building),Evening
+360,48.793240740740735,Golden Gate at Polk,Mid Day
+359,46.469127205199634,Washington at Kearny,Mid Day
+353,37.8673748819641,Temporary Transbay Terminal (Howard at Beale),Early Afternoon
+350,21.202333333333332,Powell Street BART,Evening
+346,10.072495183044316,Spear at Folsom,Mid Morning
+343,43.66700680272112,Market at Sansome,Mid Morning
